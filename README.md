@@ -5,7 +5,7 @@ PARA TESTAR:
 
 Você pode baixar este repositório.
 
-Executar um: npm install
+Executar no cmd: npm install
 
 E depois: expo start
 
