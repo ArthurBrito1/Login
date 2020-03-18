@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Image
-      source={require('../Loin/src/assets/logo.png')}
+      source={require('../Login/src/assets/logo.png')}
       style={styles.logo}
       />
       
